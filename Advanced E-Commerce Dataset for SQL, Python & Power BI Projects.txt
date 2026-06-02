@@ -1,0 +1,11 @@
+Advanced E-Commerce Dataset for SQL, Python & Power BI Projects_
+
+1. Which region and product category is underperforming the most and why?
+2. Is higher marketing spend actually improving orders and revenue?
+3. Which regions are getting high website traffic but poor conversion rates?
+4. Which customer segment is most valuable for the business?
+5. Are discounts helping sales growth or hurting overall revenue quality?
+6. Which operational issue is impacting customer experience the most?
+7. Which KPI should leadership monitor most closely to improve business growth?
+8. What strategic recommendations would you give to improve revenue, customer satisfaction, and operational efficiency?
+
